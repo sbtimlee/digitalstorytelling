@@ -1,0 +1,28 @@
+h1 {
+    color:olivedrab;
+    font-family:helvetica;
+    padding:25px;
+    border:10px solid cadetblue; 
+}
+
+p {
+    color:cornflowerblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color:coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color:azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    border:10px solid cadetblue;
+    width:50%; 
+    height:50%;
+    margin-left:100px;
+}
